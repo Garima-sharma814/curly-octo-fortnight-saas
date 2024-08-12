@@ -1,3 +1,4 @@
+'use client';
 import React, { useState } from 'react';
 
 //* initial values schema (for the context)

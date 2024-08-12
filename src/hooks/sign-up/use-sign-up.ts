@@ -1,3 +1,4 @@
+'use client';
 import { useToast } from '@/components/ui/use-toast';
 import { userRegistrationProps, UserRegistrationSchema } from '@/schemas/auth.schema';
 import { useSignUp } from '@clerk/nextjs';
